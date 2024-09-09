@@ -1,0 +1,23 @@
+{
+  "name": "server-log",
+  "version": "0.1.0",
+  "description": "log to file",
+  "main": "./main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiadtisak3000/server-log.git"
+  },
+  "keywords": [
+    "log",
+    "loger"
+  ],
+  "author": "Kiadtisak3000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kiadtisak3000/server-log/issues"
+  },
+  "homepage": "https://github.com/Kiadtisak3000/server-log#readme",
+  "dependencies": {
+    "typescript": "^5.5.4"
+  }
+}
