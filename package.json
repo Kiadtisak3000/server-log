@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/Kiadtisak3000/server-log/issues"
   },
-  "homepage": "https://github.com/Kiadtisak3000/server-log#readme",
-  "dependencies": {
-    "typescript": "^5.5.4"
-  }
+  "homepage": "https://github.com/Kiadtisak3000/server-log#readme"
 }
