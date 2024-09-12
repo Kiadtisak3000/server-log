@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Kiadtisak3000/server-log/issues"
   },
-  "homepage": "https://github.com/Kiadtisak3000/server-log#readme"
+  "homepage": "https://github.com/Kiadtisak3000/server-log#readme",
+  "dependencies": {
+    "messenger": "^0.0.9"
+  }
 }
