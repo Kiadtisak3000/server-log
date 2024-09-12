@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Kiadtisak3000/server-log#readme",
   "dependencies": {
-    "typescript": "^5.5.4"
+    "messenger": "^0.0.9"
   }
 }
